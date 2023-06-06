@@ -9,7 +9,7 @@ export default [
     },
     {
         id: 2,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -17,7 +17,7 @@ export default [
     },
     {
         id: 3,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -25,7 +25,7 @@ export default [
     },
     {
         id: 4,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -33,7 +33,7 @@ export default [
     },
     {
         id: 5,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -41,7 +41,7 @@ export default [
     },
     {
         id: 6,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -49,7 +49,7 @@ export default [
     },
     {
         id: 7,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -57,7 +57,7 @@ export default [
     },
     {
         id: 8,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -65,7 +65,7 @@ export default [
     },
     {
         id: 9,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -73,7 +73,7 @@ export default [
     },
     {
         id: 10,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -81,7 +81,7 @@ export default [
     },
     {
         id: 11,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -89,7 +89,7 @@ export default [
     },
     {
         id: 12,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
@@ -97,7 +97,7 @@ export default [
     },
     {
         id: 13,
-        name: "nuraini",
+        username: "nuraini",
         name: "Nur Aini",
         email: "aini@gmail.com",
         gender: 'female',
