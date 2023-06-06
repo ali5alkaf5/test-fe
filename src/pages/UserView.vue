@@ -27,10 +27,10 @@
         <table v-if="user" class="table">
             <tr>
                 <th>Username</th>
-                <td>{{ user.name }}</td>
+                <td>{{ user.username }}</td>
             </tr>
             <tr>
-                <th>Username</th>
+                <th>Name</th>
                 <td>{{ user.name }}</td>
             </tr>
             <tr>
